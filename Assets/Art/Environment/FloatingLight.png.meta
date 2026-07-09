@@ -1,0 +1,4459 @@
+fileFormatVersion: 2
+guid: e947eab900a059344b3601da291c1557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2560283710673108562
+    second: FloatingLight_0
+  - first:
+      213: 8193826387699651135
+    second: FloatingLight_1
+  - first:
+      213: -285263976160393335
+    second: FloatingLight_2
+  - first:
+      213: 2319641390840144566
+    second: FloatingLight_3
+  - first:
+      213: -5576043155663234118
+    second: FloatingLight_4
+  - first:
+      213: 8071339360257399000
+    second: FloatingLight_5
+  - first:
+      213: -2839693355148942043
+    second: FloatingLight_6
+  - first:
+      213: 5287281749838242196
+    second: FloatingLight_7
+  - first:
+      213: -7534360589956688876
+    second: FloatingLight_8
+  - first:
+      213: -1015970027891283855
+    second: FloatingLight_9
+  - first:
+      213: -3741056236495119915
+    second: FloatingLight_10
+  - first:
+      213: 4246244003097645795
+    second: FloatingLight_11
+  - first:
+      213: -7999578935576191412
+    second: FloatingLight_12
+  - first:
+      213: -8809195086215587419
+    second: FloatingLight_13
+  - first:
+      213: -3567480944304434699
+    second: FloatingLight_14
+  - first:
+      213: -6792451551545195478
+    second: FloatingLight_15
+  - first:
+      213: -5460615334838217107
+    second: FloatingLight_16
+  - first:
+      213: -7626042821958011939
+    second: FloatingLight_17
+  - first:
+      213: -4443448056847379926
+    second: FloatingLight_18
+  - first:
+      213: 8630401107606567123
+    second: FloatingLight_19
+  - first:
+      213: -9057439241581694498
+    second: FloatingLight_20
+  - first:
+      213: 6901133609508572972
+    second: FloatingLight_21
+  - first:
+      213: -7330489219959787338
+    second: FloatingLight_22
+  - first:
+      213: 535108572378168323
+    second: FloatingLight_23
+  - first:
+      213: 3076356228460498034
+    second: FloatingLight_24
+  - first:
+      213: 8183929545425484470
+    second: FloatingLight_25
+  - first:
+      213: 8261794507883694427
+    second: FloatingLight_26
+  - first:
+      213: -1184965734347610511
+    second: FloatingLight_27
+  - first:
+      213: -1122345001393540511
+    second: FloatingLight_28
+  - first:
+      213: -6547149479541422635
+    second: FloatingLight_29
+  - first:
+      213: 127214756464907277
+    second: FloatingLight_30
+  - first:
+      213: -2581632918179050610
+    second: FloatingLight_31
+  - first:
+      213: 2310829736766273301
+    second: FloatingLight_32
+  - first:
+      213: 8626159907045917549
+    second: FloatingLight_33
+  - first:
+      213: 3537498403528606148
+    second: FloatingLight_34
+  - first:
+      213: -5581733798001039081
+    second: FloatingLight_35
+  - first:
+      213: -2748052428241817364
+    second: FloatingLight_36
+  - first:
+      213: -7010948317280461728
+    second: FloatingLight_37
+  - first:
+      213: 3865460445380513140
+    second: FloatingLight_38
+  - first:
+      213: -3446408529166038520
+    second: FloatingLight_39
+  - first:
+      213: 682308882551743402
+    second: FloatingLight_40
+  - first:
+      213: 6258896901980528045
+    second: FloatingLight_41
+  - first:
+      213: 6604099676123577039
+    second: FloatingLight_42
+  - first:
+      213: 6973990708704297715
+    second: FloatingLight_43
+  - first:
+      213: 8527615874654946516
+    second: FloatingLight_44
+  - first:
+      213: -6455631739462536055
+    second: FloatingLight_45
+  - first:
+      213: -3246015605611631491
+    second: FloatingLight_46
+  - first:
+      213: 2317188024328484735
+    second: FloatingLight_47
+  - first:
+      213: 5234773272112065164
+    second: FloatingLight_48
+  - first:
+      213: 5052031488322168038
+    second: FloatingLight_49
+  - first:
+      213: 2337139090011335394
+    second: FloatingLight_50
+  - first:
+      213: 282629163537099380
+    second: FloatingLight_51
+  - first:
+      213: -7092901442390993249
+    second: FloatingLight_52
+  - first:
+      213: 6123871048877275423
+    second: FloatingLight_53
+  - first:
+      213: 740881622207207745
+    second: FloatingLight_54
+  - first:
+      213: 2670426539701906690
+    second: FloatingLight_55
+  - first:
+      213: -6692453595315334467
+    second: FloatingLight_56
+  - first:
+      213: -3327327632509248945
+    second: FloatingLight_57
+  - first:
+      213: 6789972771841343084
+    second: FloatingLight_58
+  - first:
+      213: -8119532735917953742
+    second: FloatingLight_59
+  - first:
+      213: 5011666507044445043
+    second: FloatingLight_60
+  - first:
+      213: 2818358000444490872
+    second: FloatingLight_61
+  - first:
+      213: -891218462638115468
+    second: FloatingLight_62
+  - first:
+      213: -7244538958104990283
+    second: FloatingLight_63
+  - first:
+      213: 5976988716179369022
+    second: FloatingLight_64
+  - first:
+      213: -8552697569581255521
+    second: FloatingLight_65
+  - first:
+      213: 6153006421891365344
+    second: FloatingLight_66
+  - first:
+      213: 5343798614452780067
+    second: FloatingLight_67
+  - first:
+      213: -1921243665693448969
+    second: FloatingLight_68
+  - first:
+      213: -2630166044531019062
+    second: FloatingLight_69
+  - first:
+      213: -7871078096455505061
+    second: FloatingLight_70
+  - first:
+      213: -7838031594487490020
+    second: FloatingLight_71
+  - first:
+      213: 5649383303906987614
+    second: FloatingLight_72
+  - first:
+      213: 3403992887023256182
+    second: FloatingLight_73
+  - first:
+      213: -7109323023864713338
+    second: FloatingLight_74
+  - first:
+      213: -4132363071840929515
+    second: FloatingLight_75
+  - first:
+      213: -2825329687040552788
+    second: FloatingLight_76
+  - first:
+      213: 2974246331396928302
+    second: FloatingLight_77
+  - first:
+      213: -2548046897634469720
+    second: FloatingLight_78
+  - first:
+      213: 8488610403709895130
+    second: FloatingLight_79
+  - first:
+      213: -6467396029186485057
+    second: FloatingLight_80
+  - first:
+      213: 7226168922376974802
+    second: FloatingLight_81
+  - first:
+      213: 3084496985316999255
+    second: FloatingLight_82
+  - first:
+      213: -6586297294890528040
+    second: FloatingLight_83
+  - first:
+      213: -1578044390740012672
+    second: FloatingLight_84
+  - first:
+      213: -1036546964935469239
+    second: FloatingLight_85
+  - first:
+      213: 433067087653296043
+    second: FloatingLight_86
+  - first:
+      213: -15991694774244095
+    second: FloatingLight_87
+  - first:
+      213: -2130658886896049618
+    second: FloatingLight_88
+  - first:
+      213: -1591755283953543377
+    second: FloatingLight_89
+  - first:
+      213: -845349224516357172
+    second: FloatingLight_90
+  - first:
+      213: 7425418771886731616
+    second: FloatingLight_91
+  - first:
+      213: 8667625641656015296
+    second: FloatingLight_92
+  - first:
+      213: 682744775328015676
+    second: FloatingLight_93
+  - first:
+      213: 5039754916083872201
+    second: FloatingLight_94
+  - first:
+      213: -7746166851465566465
+    second: FloatingLight_95
+  - first:
+      213: 5700405422986065318
+    second: FloatingLight_96
+  - first:
+      213: -2419414853496290543
+    second: FloatingLight_97
+  - first:
+      213: 2781048051955766327
+    second: FloatingLight_98
+  - first:
+      213: 7759979337088705680
+    second: FloatingLight_99
+  - first:
+      213: -3731452975061451410
+    second: FloatingLight_100
+  - first:
+      213: 9003540113597396939
+    second: FloatingLight_101
+  - first:
+      213: 3257291637878489269
+    second: FloatingLight_102
+  - first:
+      213: -1849643001157054448
+    second: FloatingLight_103
+  - first:
+      213: -4309840327868466692
+    second: FloatingLight_104
+  - first:
+      213: 5891183189238985051
+    second: FloatingLight_105
+  - first:
+      213: -5967694637266505379
+    second: FloatingLight_106
+  - first:
+      213: -1829014044961642957
+    second: FloatingLight_107
+  - first:
+      213: 1882275239804422389
+    second: FloatingLight_108
+  - first:
+      213: -1839043692714165668
+    second: FloatingLight_109
+  - first:
+      213: 4605152013538181010
+    second: FloatingLight_110
+  - first:
+      213: -8070483462808713168
+    second: FloatingLight_111
+  - first:
+      213: -4206162836050079014
+    second: FloatingLight_112
+  - first:
+      213: -4724952558198148556
+    second: FloatingLight_113
+  - first:
+      213: 7039462133810134430
+    second: FloatingLight_114
+  - first:
+      213: 4860167747771130238
+    second: FloatingLight_115
+  - first:
+      213: 4703726574757976808
+    second: FloatingLight_116
+  - first:
+      213: 3112180837858395090
+    second: FloatingLight_117
+  - first:
+      213: -2243741237020553025
+    second: FloatingLight_118
+  - first:
+      213: -1042874211435231474
+    second: FloatingLight_119
+  - first:
+      213: 5092751826971800328
+    second: FloatingLight_120
+  - first:
+      213: 4063170960025090394
+    second: FloatingLight_121
+  - first:
+      213: 5060050598854032703
+    second: FloatingLight_122
+  - first:
+      213: 475577355470080991
+    second: FloatingLight_123
+  - first:
+      213: 6688791649809748815
+    second: FloatingLight_124
+  - first:
+      213: -358648559383397937
+    second: FloatingLight_125
+  - first:
+      213: -7633438943675219433
+    second: FloatingLight_126
+  - first:
+      213: 3024401380139966632
+    second: FloatingLight_127
+  - first:
+      213: 3441006274964605410
+    second: FloatingLight_128
+  - first:
+      213: 1406846871170926786
+    second: FloatingLight_129
+  - first:
+      213: -2966314762535971808
+    second: FloatingLight_130
+  - first:
+      213: -4002634027363340881
+    second: FloatingLight_131
+  - first:
+      213: 2879941424263987582
+    second: FloatingLight_132
+  - first:
+      213: 4995327509811652997
+    second: FloatingLight_133
+  - first:
+      213: 1893709330147092821
+    second: FloatingLight_134
+  - first:
+      213: 8183446520919146549
+    second: FloatingLight_135
+  - first:
+      213: -8143913581262150155
+    second: FloatingLight_136
+  - first:
+      213: -7963958159729058596
+    second: FloatingLight_137
+  - first:
+      213: 5342798451666703586
+    second: FloatingLight_138
+  - first:
+      213: -2362392899274378576
+    second: FloatingLight_139
+  - first:
+      213: -2482198455779502251
+    second: FloatingLight_140
+  - first:
+      213: 1026732732902092723
+    second: FloatingLight_141
+  - first:
+      213: -1264411570566918578
+    second: FloatingLight_142
+  - first:
+      213: -7686594500280297483
+    second: FloatingLight_143
+  - first:
+      213: -2057852992806897824
+    second: FloatingLight_144
+  - first:
+      213: -4530876004834592691
+    second: FloatingLight_145
+  - first:
+      213: 1585866223039344161
+    second: FloatingLight_146
+  - first:
+      213: -1837024599380255108
+    second: FloatingLight_147
+  - first:
+      213: 5541039889030149385
+    second: FloatingLight_148
+  - first:
+      213: 6897861224457697505
+    second: FloatingLight_149
+  - first:
+      213: 7100574220320877480
+    second: FloatingLight_150
+  - first:
+      213: -1762567265197310464
+    second: FloatingLight_151
+  - first:
+      213: 4466462792985982689
+    second: FloatingLight_152
+  - first:
+      213: -1573063191734983090
+    second: FloatingLight_153
+  - first:
+      213: -4069942375555809972
+    second: FloatingLight_154
+  - first:
+      213: -2987800574558389048
+    second: FloatingLight_155
+  - first:
+      213: -9099261049557615428
+    second: FloatingLight_156
+  - first:
+      213: 699815854774684226
+    second: FloatingLight_157
+  - first:
+      213: 988445801513979386
+    second: FloatingLight_158
+  - first:
+      213: -3213179143813724992
+    second: FloatingLight_159
+  - first:
+      213: 4286675038605037906
+    second: FloatingLight_160
+  - first:
+      213: 7558231957090846921
+    second: FloatingLight_161
+  - first:
+      213: -7539639671303010404
+    second: FloatingLight_162
+  - first:
+      213: -6471674769073248077
+    second: FloatingLight_163
+  - first:
+      213: 9152007598886008974
+    second: FloatingLight_164
+  - first:
+      213: -3849268639505868984
+    second: FloatingLight_165
+  - first:
+      213: -7250060454993792070
+    second: FloatingLight_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FloatingLight_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 572
+        width: 1402
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eb3ea4874f78320800000000000000
+      internalID: 2560283710673108562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 906
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f325f06dfa156b170800000000000000
+      internalID: 8193826387699651135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 903
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878eb1dce98a0cf0800000000000000
+      internalID: -285263976160393335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 916
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e1531e85013020800000000000000
+      internalID: 2319641390840144566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 904
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd1760b4aed92b0800000000000000
+      internalID: -5576043155663234118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 903
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d855c56268230070800000000000000
+      internalID: 8071339360257399000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 899
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256f4750f16798d0800000000000000
+      internalID: -2839693355148942043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 903
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a38efcb2306940800000000000000
+      internalID: 5287281749838242196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_8
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 905
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414dde156f2907790800000000000000
+      internalID: -7534360589956688876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 887
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a81974ac86e1f0800000000000000
+      internalID: -1015970027891283855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 891
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d2f28c29151cc0800000000000000
+      internalID: -3741056236495119915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 888
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2944a5c60bdea30800000000000000
+      internalID: 4246244003097645795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_12
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 896
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e98487759cbf090800000000000000
+      internalID: -7999578935576191412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 880
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d0010eb37fb580800000000000000
+      internalID: -8809195086215587419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 883
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f152c38bf2cd7ec0800000000000000
+      internalID: -3567480944304434699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2409144d4d5cb1a0800000000000000
+      internalID: -6792451551545195478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 878
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66dae7d84ff734b0800000000000000
+      internalID: -5460615334838217107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 871
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3764b357ada2690800000000000000
+      internalID: -7626042821958011939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 871
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2256b1e883b552c0800000000000000
+      internalID: -4443448056847379926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_19
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 871
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f600e41855c770800000000000000
+      internalID: 8630401107606567123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f6d68ff28d4280800000000000000
+      internalID: -9057439241581694498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 873
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f844e3470c5cf50800000000000000
+      internalID: 6901133609508572972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 865
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0777e94eed44a90800000000000000
+      internalID: -7330489219959787338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 873
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfdd459661d6700800000000000000
+      internalID: 535108572378168323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_24
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 857
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cc2f7c0b961ba20800000000000000
+      internalID: 3076356228460498034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_25
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 849
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baf8edaf88239170800000000000000
+      internalID: 8183929545425484470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_26
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 829
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594ea1055ac7a270800000000000000
+      internalID: 8261794507883694427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 861
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176633d51f72e8fe0800000000000000
+      internalID: -1184965734347610511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 848
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162b08cea21ac60f0800000000000000
+      internalID: -1122345001393540511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 862
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5cc849c3ad325a0800000000000000
+      internalID: -6547149479541422635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 851
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045741a525f3c100800000000000000
+      internalID: 127214756464907277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 847
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b8b7bf9823c2cd0800000000000000
+      internalID: -2581632918179050610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_32
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 826
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517fc5cf667b11020800000000000000
+      internalID: 2310829736766273301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 843
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63403b6bb646b770800000000000000
+      internalID: 8626159907045917549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_34
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 841
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c185d73e08b71130800000000000000
+      internalID: 3537498403528606148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192b5b1fa2b982b0800000000000000
+      internalID: -5581733798001039081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 807
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03f7650e4fcd9d0800000000000000
+      internalID: -2748052428241817364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 838
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c10e9a6ab14be90800000000000000
+      internalID: -7010948317280461728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 831
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d8a348bcfd4a530800000000000000
+      internalID: 3865460445380513140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_39
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 820
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a8e2cd3b5eb20d0800000000000000
+      internalID: -3446408529166038520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_40
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 831
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3279b405c087900800000000000000
+      internalID: 682308882551743402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_41
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 824
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad975042911cd650800000000000000
+      internalID: 6258896901980528045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 819
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca3e985aa976ab50800000000000000
+      internalID: 6604099676123577039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 822
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c13b899798c060800000000000000
+      internalID: 6973990708704297715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 815
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d44acde47d285670800000000000000
+      internalID: 8527615874654946516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 813
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9843998e22df866a0800000000000000
+      internalID: -6455631739462536055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_46
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 803
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ce42c3106d3f2d0800000000000000
+      internalID: -3246015605611631491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 805
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7773eb2b3e482020800000000000000
+      internalID: 2317188024328484735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 799
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae2f35e86a5a840800000000000000
+      internalID: 5234773272112065164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_49
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 791
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e78f2fdb6c1640800000000000000
+      internalID: 5052031488322168038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_50
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 770
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2ec2ae9f2f6020800000000000000
+      internalID: 2337139090011335394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_51
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 802
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a6bcf0ab91ce300800000000000000
+      internalID: 282629163537099380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 793
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96dd6bc7b3f09d90800000000000000
+      internalID: -7092901442390993249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 791
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f0a6f54c5cf450800000000000000
+      internalID: 6123871048877275423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_54
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 701
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1499648f8e3284a00800000000000000
+      internalID: 740881622207207745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d25b11ac24f0520800000000000000
+      internalID: 2670426539701906690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 775
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db29177c9e0af13a0800000000000000
+      internalID: -6692453595315334467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 767
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad1fca525f2d1d0800000000000000
+      internalID: -3327327632509248945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 759
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7d2cd244da3e50800000000000000
+      internalID: 6789972771841343084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d647deeff915f80800000000000000
+      internalID: -8119532735917953742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 727
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b5b1d92240d8540800000000000000
+      internalID: 5011666507044445043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 680
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874cf5a4ba1dc1720800000000000000
+      internalID: 2818358000444490872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 687
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4757f25b781c1a3f0800000000000000
+      internalID: -891218462638115468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_63
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 683
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd6ca8633a367b90800000000000000
+      internalID: -7244538958104990283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 176
+        width: 1525
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca366e19782f250800000000000000
+      internalID: 5976988716179369022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9433c5efd6be4980800000000000000
+      internalID: -8552697569581255521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 661
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9388d9dbed36550800000000000000
+      internalID: 6153006421891365344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 663
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cbea5f68cf82a40800000000000000
+      internalID: 5343798614452780067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_68
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 673
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46f53b01f5655e0800000000000000
+      internalID: -1921243665693448969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_69
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 672
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac23f6feae5cf7bd0800000000000000
+      internalID: -2630166044531019062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 655
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b696d8c2054c290800000000000000
+      internalID: -7871078096455505061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_71
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad840eac7b93390800000000000000
+      internalID: -7838031594487490020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_72
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 655
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e0665ee24a66e40800000000000000
+      internalID: 5649383303906987614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_73
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 665
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6724af0ee796d3f20800000000000000
+      internalID: 3403992887023256182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 655
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fa909606c965d90800000000000000
+      internalID: -7109323023864713338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 642
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519bafb2ea5e6a6c0800000000000000
+      internalID: -4132363071840929515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 618
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0159e6e996ac8d0800000000000000
+      internalID: -2825329687040552788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 617
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e233c69b745a64920800000000000000
+      internalID: 2974246331396928302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_78
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 599
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a81673c8d483acd0800000000000000
+      internalID: -2548046897634469720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad140d5003a9dc570800000000000000
+      internalID: 8488610403709895130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 548
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45192c3913f36a0800000000000000
+      internalID: -6467396029186485057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_81
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 518
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d13f395952884460800000000000000
+      internalID: 7226168922376974802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75045907aa55eca20800000000000000
+      internalID: 3084496985316999255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 377
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21fe88185c894a0800000000000000
+      internalID: -6586297294890528040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 397
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d42accf8a91ae0800000000000000
+      internalID: -1578044390740012672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_85
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 1427
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947130af6027d91f0800000000000000
+      internalID: -1036546964935469239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7dc73c830920600800000000000000
+      internalID: 433067087653296043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10def9963af27cff0800000000000000
+      internalID: -15991694774244095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e222805f7016e62e0800000000000000
+      internalID: -2130658886896049618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 303
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f271992b003f8e9e0800000000000000
+      internalID: -1591755283953543377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 319
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3fc81fb57b444f0800000000000000
+      internalID: -845349224516357172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_91
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 303
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06173de08036c0760800000000000000
+      internalID: 7425418771886731616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 295
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c959f81997994870800000000000000
+      internalID: 8667625641656015296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352ead71c8997900800000000000000
+      internalID: 682744775328015676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c13538f46ec0f540800000000000000
+      internalID: 5039754916083872201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_95
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff62d7f1a46108490800000000000000
+      internalID: -7746166851465566465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 258
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57bc8b788eb1f40800000000000000
+      internalID: 5700405422986065318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_97
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 223
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113cc0562038c6ed0800000000000000
+      internalID: -2419414853496290543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349d18f774489620800000000000000
+      internalID: 2781048051955766327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_99
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 139
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942b8bc71cf0bb60800000000000000
+      internalID: 7759979337088705680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_100
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 149
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d336d0a47373cc0800000000000000
+      internalID: -3731452975061451410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_101
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 143
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7f3ffc70003fc70800000000000000
+      internalID: 9003540113597396939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_102
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 137
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0099d9c79343d20800000000000000
+      internalID: 3257291637878489269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_103
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 140
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0101fb28d7fb456e0800000000000000
+      internalID: -1849643001157054448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_104
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 125
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf93fba6e0f5034c0800000000000000
+      internalID: -4309840327868466692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_105
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b755d5efa1c150800000000000000
+      internalID: 5891183189238985051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_106
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f9b9785d7e2da0800000000000000
+      internalID: -5967694637266505379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_107
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3366cd8aa690e96e0800000000000000
+      internalID: -1829014044961642957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_108
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 81
+        width: 134
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f84e0e9b5f2f1a10800000000000000
+      internalID: 1882275239804422389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_109
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 135
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a795151876a76e0800000000000000
+      internalID: -1839043692714165668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_110
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f3e9f6b59c8ef30800000000000000
+      internalID: 4605152013538181010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_111
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 137
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0384f91cc02efff80800000000000000
+      internalID: -8070483462808713168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_112
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 142
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad219c19f25b0a5c0800000000000000
+      internalID: -4206162836050079014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_113
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 142
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432b604aea89d6eb0800000000000000
+      internalID: -4724952558198148556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_114
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df097938131b160800000000000000
+      internalID: 7039462133810134430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_115
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 119
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7165baf0d8c27340800000000000000
+      internalID: 4860167747771130238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_116
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 133
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9309f56ef64140800000000000000
+      internalID: 4703726574757976808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_117
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c355abffa03b20800000000000000
+      internalID: 3112180837858395090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_118
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 119
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09e779b31acd0e0800000000000000
+      internalID: -2243741237020553025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ccf91e67f681f0800000000000000
+      internalID: -1042874211435231474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 120
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80330e7ddc61da640800000000000000
+      internalID: 5092751826971800328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_121
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 119
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597af5e578436830800000000000000
+      internalID: 4063170960025090394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_122
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 127
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d723ad539e83640800000000000000
+      internalID: 5060050598854032703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_123
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 123
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8308c517999600800000000000000
+      internalID: 475577355470080991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_124
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435287119c53dc50800000000000000
+      internalID: 6688791649809748815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_125
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 128
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93fb21903d50bf0800000000000000
+      internalID: -358648559383397937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_126
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120b9379b3901690800000000000000
+      internalID: -7633438943675219433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_127
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a1710805d8f920800000000000000
+      internalID: 3024401380139966632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_128
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 127
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c721d9f8e0cf20800000000000000
+      internalID: 3441006274964605410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_129
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8438986cf168310800000000000000
+      internalID: 1406846871170926786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_130
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024db0f807885d6d0800000000000000
+      internalID: -2966314762535971808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_131
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 115
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faded191f89c378c0800000000000000
+      internalID: -4002634027363340881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_132
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 119
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71003f777b97f720800000000000000
+      internalID: 2879941424263987582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_133
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 121
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896f0f57e7f25540800000000000000
+      internalID: 4995327509811652997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_134
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a24b3a9ec74a10800000000000000
+      internalID: 1893709330147092821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_135
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 116
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530cac5c041719170800000000000000
+      internalID: 8183446520919146549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_136
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e3630fb10bfe80800000000000000
+      internalID: -8143913581262150155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_137
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 102
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc9643af365a7190800000000000000
+      internalID: -7963958159729058596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_138
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 115
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d91a62ee652a40800000000000000
+      internalID: 5342798451666703586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_139
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 115
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b278d2bc28173fd0800000000000000
+      internalID: -2362392899274378576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_140
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 115
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575d3dd7a57d8dd0800000000000000
+      internalID: -2482198455779502251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_141
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 117
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf25ef0bffaf3e00800000000000000
+      internalID: 1026732732902092723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_142
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 106
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e077e2068e37ee0800000000000000
+      internalID: -1264411570566918578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_143
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 107
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7525ef60bb35590800000000000000
+      internalID: -7686594500280297483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_144
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 100
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06735c32b990173e0800000000000000
+      internalID: -2057852992806897824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_145
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 109
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d483e7a77481f11c0800000000000000
+      internalID: -4530876004834592691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_146
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 97
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eec857de0220610800000000000000
+      internalID: 1585866223039344161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_147
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e194e1cd39186e0800000000000000
+      internalID: -1837024599380255108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_148
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90579efdb6ab5ec40800000000000000
+      internalID: 5541039889030149385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_149
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8fdb9bc302abf50800000000000000
+      internalID: 6897861224457697505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_150
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 103
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba58702ae4a8260800000000000000
+      internalID: 7100574220320877480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_151
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 103
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ebe29296a1a87e0800000000000000
+      internalID: -1762567265197310464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_152
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6bd62fe301cfd30800000000000000
+      internalID: 4466462792985982689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_153
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e46f8c5b5b2ae0800000000000000
+      internalID: -1573063191734983090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_154
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 95
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dbfa019f8a487c0800000000000000
+      internalID: -4069942375555809972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_155
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 95
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3dbd15333986d0800000000000000
+      internalID: -2987800574558389048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_156
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf19e094ee8b180800000000000000
+      internalID: -9099261049557615428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_157
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 86
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0808efce36b900800000000000000
+      internalID: 699815854774684226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_158
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 81
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd87fe283aa7bd00800000000000000
+      internalID: 988445801513979386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_159
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 87
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c40a45c79e7863d0800000000000000
+      internalID: -3213179143813724992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_160
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 88
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251569f5c345d7b30800000000000000
+      internalID: 4286675038605037906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_161
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 71
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8c7647beb34e860800000000000000
+      internalID: 7558231957090846921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_162
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 78
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c978a896aa1dd5790800000000000000
+      internalID: -7539639671303010404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_163
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 80
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e78ff51eff26a0800000000000000
+      internalID: -6471674769073248077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_164
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 72
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b649fb66720f70800000000000000
+      internalID: 9152007598886008974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_165
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84793311196a49ac0800000000000000
+      internalID: -3849268639505868984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingLight_166
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3fcfbbd6c926b90800000000000000
+      internalID: -7250060454993792070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FloatingLight_0: 2560283710673108562
+      FloatingLight_1: 8193826387699651135
+      FloatingLight_10: -3741056236495119915
+      FloatingLight_100: -3731452975061451410
+      FloatingLight_101: 9003540113597396939
+      FloatingLight_102: 3257291637878489269
+      FloatingLight_103: -1849643001157054448
+      FloatingLight_104: -4309840327868466692
+      FloatingLight_105: 5891183189238985051
+      FloatingLight_106: -5967694637266505379
+      FloatingLight_107: -1829014044961642957
+      FloatingLight_108: 1882275239804422389
+      FloatingLight_109: -1839043692714165668
+      FloatingLight_11: 4246244003097645795
+      FloatingLight_110: 4605152013538181010
+      FloatingLight_111: -8070483462808713168
+      FloatingLight_112: -4206162836050079014
+      FloatingLight_113: -4724952558198148556
+      FloatingLight_114: 7039462133810134430
+      FloatingLight_115: 4860167747771130238
+      FloatingLight_116: 4703726574757976808
+      FloatingLight_117: 3112180837858395090
+      FloatingLight_118: -2243741237020553025
+      FloatingLight_119: -1042874211435231474
+      FloatingLight_12: -7999578935576191412
+      FloatingLight_120: 5092751826971800328
+      FloatingLight_121: 4063170960025090394
+      FloatingLight_122: 5060050598854032703
+      FloatingLight_123: 475577355470080991
+      FloatingLight_124: 6688791649809748815
+      FloatingLight_125: -358648559383397937
+      FloatingLight_126: -7633438943675219433
+      FloatingLight_127: 3024401380139966632
+      FloatingLight_128: 3441006274964605410
+      FloatingLight_129: 1406846871170926786
+      FloatingLight_13: -8809195086215587419
+      FloatingLight_130: -2966314762535971808
+      FloatingLight_131: -4002634027363340881
+      FloatingLight_132: 2879941424263987582
+      FloatingLight_133: 4995327509811652997
+      FloatingLight_134: 1893709330147092821
+      FloatingLight_135: 8183446520919146549
+      FloatingLight_136: -8143913581262150155
+      FloatingLight_137: -7963958159729058596
+      FloatingLight_138: 5342798451666703586
+      FloatingLight_139: -2362392899274378576
+      FloatingLight_14: -3567480944304434699
+      FloatingLight_140: -2482198455779502251
+      FloatingLight_141: 1026732732902092723
+      FloatingLight_142: -1264411570566918578
+      FloatingLight_143: -7686594500280297483
+      FloatingLight_144: -2057852992806897824
+      FloatingLight_145: -4530876004834592691
+      FloatingLight_146: 1585866223039344161
+      FloatingLight_147: -1837024599380255108
+      FloatingLight_148: 5541039889030149385
+      FloatingLight_149: 6897861224457697505
+      FloatingLight_15: -6792451551545195478
+      FloatingLight_150: 7100574220320877480
+      FloatingLight_151: -1762567265197310464
+      FloatingLight_152: 4466462792985982689
+      FloatingLight_153: -1573063191734983090
+      FloatingLight_154: -4069942375555809972
+      FloatingLight_155: -2987800574558389048
+      FloatingLight_156: -9099261049557615428
+      FloatingLight_157: 699815854774684226
+      FloatingLight_158: 988445801513979386
+      FloatingLight_159: -3213179143813724992
+      FloatingLight_16: -5460615334838217107
+      FloatingLight_160: 4286675038605037906
+      FloatingLight_161: 7558231957090846921
+      FloatingLight_162: -7539639671303010404
+      FloatingLight_163: -6471674769073248077
+      FloatingLight_164: 9152007598886008974
+      FloatingLight_165: -3849268639505868984
+      FloatingLight_166: -7250060454993792070
+      FloatingLight_17: -7626042821958011939
+      FloatingLight_18: -4443448056847379926
+      FloatingLight_19: 8630401107606567123
+      FloatingLight_2: -285263976160393335
+      FloatingLight_20: -9057439241581694498
+      FloatingLight_21: 6901133609508572972
+      FloatingLight_22: -7330489219959787338
+      FloatingLight_23: 535108572378168323
+      FloatingLight_24: 3076356228460498034
+      FloatingLight_25: 8183929545425484470
+      FloatingLight_26: 8261794507883694427
+      FloatingLight_27: -1184965734347610511
+      FloatingLight_28: -1122345001393540511
+      FloatingLight_29: -6547149479541422635
+      FloatingLight_3: 2319641390840144566
+      FloatingLight_30: 127214756464907277
+      FloatingLight_31: -2581632918179050610
+      FloatingLight_32: 2310829736766273301
+      FloatingLight_33: 8626159907045917549
+      FloatingLight_34: 3537498403528606148
+      FloatingLight_35: -5581733798001039081
+      FloatingLight_36: -2748052428241817364
+      FloatingLight_37: -7010948317280461728
+      FloatingLight_38: 3865460445380513140
+      FloatingLight_39: -3446408529166038520
+      FloatingLight_4: -5576043155663234118
+      FloatingLight_40: 682308882551743402
+      FloatingLight_41: 6258896901980528045
+      FloatingLight_42: 6604099676123577039
+      FloatingLight_43: 6973990708704297715
+      FloatingLight_44: 8527615874654946516
+      FloatingLight_45: -6455631739462536055
+      FloatingLight_46: -3246015605611631491
+      FloatingLight_47: 2317188024328484735
+      FloatingLight_48: 5234773272112065164
+      FloatingLight_49: 5052031488322168038
+      FloatingLight_5: 8071339360257399000
+      FloatingLight_50: 2337139090011335394
+      FloatingLight_51: 282629163537099380
+      FloatingLight_52: -7092901442390993249
+      FloatingLight_53: 6123871048877275423
+      FloatingLight_54: 740881622207207745
+      FloatingLight_55: 2670426539701906690
+      FloatingLight_56: -6692453595315334467
+      FloatingLight_57: -3327327632509248945
+      FloatingLight_58: 6789972771841343084
+      FloatingLight_59: -8119532735917953742
+      FloatingLight_6: -2839693355148942043
+      FloatingLight_60: 5011666507044445043
+      FloatingLight_61: 2818358000444490872
+      FloatingLight_62: -891218462638115468
+      FloatingLight_63: -7244538958104990283
+      FloatingLight_64: 5976988716179369022
+      FloatingLight_65: -8552697569581255521
+      FloatingLight_66: 6153006421891365344
+      FloatingLight_67: 5343798614452780067
+      FloatingLight_68: -1921243665693448969
+      FloatingLight_69: -2630166044531019062
+      FloatingLight_7: 5287281749838242196
+      FloatingLight_70: -7871078096455505061
+      FloatingLight_71: -7838031594487490020
+      FloatingLight_72: 5649383303906987614
+      FloatingLight_73: 3403992887023256182
+      FloatingLight_74: -7109323023864713338
+      FloatingLight_75: -4132363071840929515
+      FloatingLight_76: -2825329687040552788
+      FloatingLight_77: 2974246331396928302
+      FloatingLight_78: -2548046897634469720
+      FloatingLight_79: 8488610403709895130
+      FloatingLight_8: -7534360589956688876
+      FloatingLight_80: -6467396029186485057
+      FloatingLight_81: 7226168922376974802
+      FloatingLight_82: 3084496985316999255
+      FloatingLight_83: -6586297294890528040
+      FloatingLight_84: -1578044390740012672
+      FloatingLight_85: -1036546964935469239
+      FloatingLight_86: 433067087653296043
+      FloatingLight_87: -15991694774244095
+      FloatingLight_88: -2130658886896049618
+      FloatingLight_89: -1591755283953543377
+      FloatingLight_9: -1015970027891283855
+      FloatingLight_90: -845349224516357172
+      FloatingLight_91: 7425418771886731616
+      FloatingLight_92: 8667625641656015296
+      FloatingLight_93: 682744775328015676
+      FloatingLight_94: 5039754916083872201
+      FloatingLight_95: -7746166851465566465
+      FloatingLight_96: 5700405422986065318
+      FloatingLight_97: -2419414853496290543
+      FloatingLight_98: 2781048051955766327
+      FloatingLight_99: 7759979337088705680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
